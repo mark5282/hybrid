@@ -1,0 +1,7 @@
+*.csv
+/even
+/uneven
+/.vscode
+/.exe
+/.txt
+

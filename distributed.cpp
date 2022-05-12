@@ -462,14 +462,8 @@ void distributed()
                 }
                 else
                 {
-
                     task_list[i].end_node = -1;
                     count ++;
-                    for(int k = 0; k < node_num; k++)
-                    {
-                        task_list[i].route_bucket[k] = 0;
-                    }
-                    task_list[i].route_bucket[i] = 1;
                 }
             }
         }
