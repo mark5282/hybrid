@@ -2,6 +2,6 @@
 /even
 /uneven
 /.vscode
-/.exe
-/.txt
+*.exe
+*.txt
 
